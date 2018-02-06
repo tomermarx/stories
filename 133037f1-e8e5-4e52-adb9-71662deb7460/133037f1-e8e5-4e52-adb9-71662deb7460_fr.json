@@ -1,6 +1,16 @@
 {
-storyId: "133037f1-e8e5-4e52-adb9-71662deb7460",
-1_102##phone number: "1111111111",
-1_102##Contact form email: "Contact form email",
-1_103##WelcomeMessage: "Erez Blet in french",
+
+"storyId": "133037f1-e8e5-4e52-adb9-71662deb7460",
+  
+"1_102##phone number": "1111111111",
+
+"1_102##Contact form email": "Contact form emailfr",
+
+"1_103##WelcomeMessage": "This is the french version",
+
+"1_103##WelcomeParagraphTitle": "yaaay, This is Your Welcome Subtitle",
+
+"1_103##WelcomeBody": "This is your Welcome Section. Your Welcome Section will be the first text your readers encounter on your website, so it should clearly convey what your site is about. Grab attention with a strong Welcome Title and engage your readers so they continue browsing. You can easily switch your background from an image, to a gallery, to a video in one click. And, don’t forget to connect your Welcome Button to your contact page, about page, or other section by adding a link! This is your Welcome Section.... Way too long....",
+
+"1_103##button^^callToAction": "Learn French"
 }
