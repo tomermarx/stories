@@ -76,5 +76,51 @@
 
 "1_102##phone number": "123-456-7890",
 
-"1_102##Contact form email": "Contact form email"
+"1_102##Contact form email": "Contact form email",
+
+"1_103##WelcomeMessage": "This is Your Welcome Title",
+
+"1_103##WelcomeParagraphTitle": "This is Your Welcome Subtitle",
+
+"1_103##WelcomeBody": "This is your Welcome Section. Your Welcome Section will be the first text your readers encounter on your website, so it should clearly convey what your site is about. Grab attention with a strong Welcome Title and engage your readers so they continue browsing. You can easily switch your background from an image, to a gallery, to a video in one click. And, don’t forget to connect your Welcome Button to your contact page, about page, or other section by adding a link!",
+
+"1_103##WelcomeMedia^^0^^Title": "Old Building",
+
+"1_103##WelcomeMedia^^1^^Title": "Wildlife",
+
+"1_103##WelcomeMedia^^2^^Title": "Magnified Grass",
+
+"1_103##WelcomeMedia^^3^^Title": "Foggy Mountains",
+
+"1_103##WelcomeMedia^^4^^Title": "Walk in the Desert",
+
+"1_103##WelcomeMedia^^5^^Title": "Snowy Mountains",
+
+"1_103##WelcomeMedia^^6^^Title": "Dark Leaf",
+
+"1_103##WelcomeMedia^^7^^Title": "Graphic Shape 4",
+
+"1_103##WelcomeMedia^^8^^Title": "Black and White Star in Circle",
+
+"1_103##WelcomeMedia^^9^^Title": "Urban View",
+
+"1_103##WelcomeMedia^^10^^Title": "Serving Coffee",
+
+"1_103##WelcomeMedia^^14^^Title": "Stormy Sea",
+
+"1_103##WelcomeMedia^^15^^Title": "Wooden Stairs",
+
+"1_103##WelcomeMedia^^16^^Title": "Foggy Mountains",
+
+"1_103##WelcomeMedia^^17^^Title": "Sand Desert",
+
+"1_103##WelcomeMedia^^18^^Title": "Black Marble",
+
+"1_103##WelcomeMedia^^19^^Title": "Magnified Grass",
+
+"1_103##WelcomeMedia^^20^^Title": "Dark Leaf",
+
+"1_103##WelcomeMedia^^21^^Title": "Abstract Architecture",
+
+"1_103##button^^callToAction": "Learn More"
 }
